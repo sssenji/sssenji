@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Arseny</h1>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 <!--
